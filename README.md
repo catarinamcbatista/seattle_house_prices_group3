@@ -3,11 +3,6 @@ Data Analytics Project: Group 3 Seattle House Prices
 
 Catarina Batista, Gabriel Escarrer, Sanmi Ogunmola
 
-For this project, we chose the linear regression model output: regression_data_clean.csv.
-
-Initially, for the project we have made some assumptions for the model, in which location, size, age and date would play an important part for the model prediction. However, as we were testing and training the model taking different approaches, not all of the assumptions were conclusive to validate and improve our model's accuracy.
-
-
 For this project we were tasked with building a regression model in order to predict future house prices based on a variety of features on which the value of the houses were evaluated upon. We made some initial assumptions about which features would affect the price point. These included location, size, construction year and sold dates. After having tested and trained our model with various approaches, not all of the assumptions were conclusive enough to validate our initial assumptions. 
 
 After having better understood the features we were dealing with, we decided to take a different approach, this time, taking into consideration those features who had a bigger influence on the our targeted outcome, the price. 
@@ -15,3 +10,10 @@ Furthermore, we dove into the intricacies of how well the model predicted the pr
 
 Overall, we discovered grade, location, and the square foot of the living area have positive affect on predicting house prices and were some of the main features to determine if a house would be expensive or not.
 
+In order to better understand out thought proccess, we have uploaded different documents which reflect various types of information related to our project. 
+
+regression_project.sql: answered questions related to the project
+Project Draft [Seattle Housing] : viual representation of our main point throughout the project
+Model_export_data_v1.csv: the data which was provided for the assembilng of the model
+Master-Notebook-v2.3.ipynb: Notebook containing different approaches that we have tried and disregarded 
+Master-Notebook-v2.3.FINAL.ipynb : Final Notebook containing the latest version of our model

@@ -14,9 +14,10 @@ In order to better understand out thought proccess, we have uploaded different d
 
 regression_project.sql: answered questions related to the project
 
-Project Draft [Seattle Housing] : viual representation of our main point throughout the project
+Project Draft [Seattle Housing] : visual representation of our main point throughout the project
+  cb_project_da: support document to the visual
 
-Model_export_data_v1.csv: the data which was provided for the assembilng of the model
+Model_export_data_v1.csv: the data which was provided for the assembling of the model
 
 Master-Notebook-v2.3.ipynb: Notebook containing different approaches that we have tried and disregarded 
 

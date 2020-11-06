@@ -13,7 +13,11 @@ Overall, we discovered grade, location, and the square foot of the living area h
 In order to better understand out thought proccess, we have uploaded different documents which reflect various types of information related to our project. 
 
 regression_project.sql: answered questions related to the project
+
 Project Draft [Seattle Housing] : viual representation of our main point throughout the project
+
 Model_export_data_v1.csv: the data which was provided for the assembilng of the model
+
 Master-Notebook-v2.3.ipynb: Notebook containing different approaches that we have tried and disregarded 
+
 Master-Notebook-v2.3.FINAL.ipynb : Final Notebook containing the latest version of our model
